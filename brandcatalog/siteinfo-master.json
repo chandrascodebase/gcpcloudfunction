@@ -1,0 +1,28 @@
+{
+    "brands":[
+        {
+            "brand":"lovebeautyandplanet",
+            "locale":"in_en",
+            "domainname":"https://lovebeautyandplanet.in",
+            "sitemappath":"https://lovebeautyandplanet.in/sitemap.xml"
+        },
+        {
+            "brand":"lovebeautyandplanet",
+            "locale":"us_en",
+            "domainname":"https://lovebeautyandplanet.com",
+            "sitemappath":"https://lovebeautyandplanet.com/us/en/sitemap.xml"
+        },
+        {
+            "brand":"lovebeautyandplanet",
+            "locale":"ca_en",
+            "domainname":"https://lovebeautyandplanet.com",
+            "sitemappath":"https://lovebeautyandplanet.com/ca/en/sitemap.xml"
+        },
+        {
+            "brand":"lovebeautyandplanet",
+            "locale":"gb_en",
+            "domainname":"https://lovebeautyandplanet.com",
+            "sitemappath":"https://lovebeautyandplanet.com/gb/en/sitemap.xml"
+        }
+    ]
+}
